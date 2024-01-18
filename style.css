@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #778beb;
+}
+#me-te-rejat {
+  display: flex;
+  margin: 30px;
+  /* justify-content: center; */
+  /* align-items: center; */
+  flex-wrap: wrap;
+}
+#me-te-rejat article {
+  width: 30%;
+  background-color: #e15f41;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: center;
+}
+#main-title {
+  text-align: center;
+}
